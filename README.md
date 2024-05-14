@@ -2,6 +2,7 @@
 
 1) Hier findest du eine Übersicht über wichtige Git Befehle.
    https://education.github.com/git-cheat-sheet-education.pdf
+2) Benutze für die Git Befehle das Terminal
 
 ### Aufgaben
 
